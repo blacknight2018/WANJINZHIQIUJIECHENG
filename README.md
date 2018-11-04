@@ -1,0 +1,2 @@
+# WANJINZHIQIUJIECHENG
+万进制求阶乘
